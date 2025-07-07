@@ -1,7 +1,7 @@
 ## Hi there! 👋, I'm Mohit Aggarwal.
 
 # 💫 About Me:
-👨‍💻 I'm a first year computer science student<br>🤖 I'm currently working on Reactjs<br>⚙️ Love to learn new technology<br>🤝 Interested in to collaborate with others<br><br>
+👨‍💻 I'm a Second year computer science student<br>🤖 I'm currently working on Reactjs<br>⚙️ Love to learn new technology<br>🤝 Interested in to collaborate with others<br><br>
 
 
 ## 🌐 Socials:
