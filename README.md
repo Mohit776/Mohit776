@@ -1,10 +1,10 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="120" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-<h1 align="center" style="color:#0077B5;">Hi there! 👋, I'm <span style="color:#E4405F;">Mohit Aggarwal</span></h1>
+<h1 style="color:#0077B5;">Hi there! 👋, I'm <span style="color:#E4405F;">Mohit Aggarwal</span></h1>
 
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/Computer%20Science-Student-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React.js-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Learning-New%20Tech-yellow?style=for-the-badge" />
